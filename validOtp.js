@@ -9,4 +9,3 @@ function validOtp(otp) {
         return false;
     }
 }    
- // 'Invalid'
